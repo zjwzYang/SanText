@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="亚太地区兰花指式撸管大赛总冠军"
+        android:textSize="20sp"
+        android:ellipsize="end"
+        android:maxLines="1"/>
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="看那俩人忧怨的小眼神"
+        android:textSize="20sp"
+        android:ellipsize="end"
+        android:maxLines="1"/>
+</LinearLayout>
